@@ -1,0 +1,22 @@
+*{
+    background-color: rgba(212, 255, 0, 0.37);
+   font-family: 'Courier New', Courier, monospace;
+}
+
+
+h3{
+    color: rgba(0, 255, 179, 0.785); 
+    font-size: 100px;
+}
+h4{
+    color: red;
+    font-size: 83px;
+}
+.my_class{
+    color: maroon;
+    font-size: 56px;
+}
+#my_id{
+    color: burlywood;
+    font-size: 71px;
+}
